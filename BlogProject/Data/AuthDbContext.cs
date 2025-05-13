@@ -53,10 +53,10 @@ options) : base(options)
             var superAdminId = "84d97bfd-8f03-457d-9c5d-63c2d3fc40e3";
             var superAdminUser = new IdentityUser
             {
-                UserName = "superadmin@bloggie.com",
-                Email = "superadmin@bloggie.com",
-                NormalizedEmail = "superadmin@bloggie.com".ToUpper(),
-                NormalizedUserName = "superadmin@bloggie.com".ToUpper(),
+                UserName = "superadmin@blog.com",
+                Email = "superadmin@blog.com",
+                NormalizedEmail = "superadmin@blog.com".ToUpper(),
+                NormalizedUserName = "superadmin@blog.com".ToUpper(),
                 Id = superAdminId
             };
 
