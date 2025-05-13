@@ -19,4 +19,8 @@
     <Folder Include="Repositories\Contracts\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Dtos\Dtos.csproj" />
+  </ItemGroup>
+
 </Project>
